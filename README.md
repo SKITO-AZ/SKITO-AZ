@@ -8,6 +8,7 @@
 
 DISKIOSK 봇 : https://diskiosk.xyz
 #디스코드 서버에서 컴퓨터 파일을 자동결제 시스템을 통해 무료로 사용할 수 있는 봇
+https://koreanbots.dev/api/widget/bots/servers/693795008423264267.svg?icon=false&scale=2
 
 <!---
 SKITO-AZ/SKITO-AZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
