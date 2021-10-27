@@ -5,6 +5,10 @@ SKITO-AZ/SKITO-AZ is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=ff3399&height=300&section=header&text=스키토%20SKITO&fontSize=80&&fontColor=ffffff)
+
+
+
+
 ![JS](https://img.shields.io/badge/Java%20Script-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![JS](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![JS](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white)
